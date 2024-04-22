@@ -1,0 +1,57 @@
+Beit Lahya,31.5491,34.5013
+Gaza,31.5120,34.4584
+Beit Hanoun,31.5380,34.5400
+Rafah,31.2749,34.2555
+Khan Younes,31.3438,34.3070
+Abasan Al-kabera,31.3230,34.3494
+Khuza'a,31.3066,34.3587
+Der Albalah,31.4177,34.3503
+Al-Breij,31.4405,34.4030
+Al-magazi,31.4212,34.3836
+Al-Qarara,31.3781,34.3347
+Nserat,31.4496,34.3893
+Johur Al-Diek,31.4568,34.4418
+Jabalia,31.5285,34.4845
+Khan-Younes Camp,31.3514,34.2876
+Um Al-Naser,31.5570,34.5200
+Um Dhear,31.3991,34.3400
+Wadi alsalfa,31.3766355,34.3613911
+Showqa Al-Sofi,31.2609967,34.2842245
+Al-Naser,31.2810,34.3067
+Al-Fakhari,31.2884522,34.3132846
+AlQuba,31.4786,34.4658
+Al-Tufah,31.5137,34.4805,
+Rafah entrance,31.2706915,34.2756661
+Al-Shajaia,31.5028894,34.4777898
+braziel camp,31.2692243,34.2638214
+Um Naser entrance,31.5480,34.5189
+Um Naser Main Street,31.5489,34.5285
+Beit Lahya cross,31.5382,34.5079
+Beit Lahya Main Street,31.5292,34.5146
+Jabalia Main Street,31.5222,34.4959
+Shajaia Main Street,31.5068,34.4712
+old Gaza Main Street,31.4965,34.4579
+Al-Zaiton,31.4849,34.4469
+Al-Mograqa Main Street,31.4651,34.4268
+Nserat-Breij Cross,31.4431,34.3981 
+Al-magazi Cross,31.4262,34.3776
+Der Albalah Cross,31.4096,34.3603
+Dhear-salqa Cross,31.3912,34.3460
+Khan Younes North cross,31.3716,34.3318
+ALBaher Cross,31.3559,34.3268
+Khan Younes Cross,31.3434,34.3139
+AlSheikh Naseer,31.3374,34.3095
+Beit Hanoun entrance,31.5380783,34.5330465
+Gaza Cross,31.5024,34.4681
+Rafah Cross,31.2658,34.2808
+Bani Shila,31.3428973,34.3250067
+Bani Shila Cross,31.3503797,34.3198674
+Johur Diek Cross,31.4682395,34.4410430
+AlQuba Cross,31.4797537,34.4422067
+Khuza Cross,31.3093291,34.3642745
+Beit Hanoun North entrance,31.5450391,34.5261542
+Shajaia entrance,31.5004012,34.4749574
+Quba entrance,31.5001801,34.4638543
+Quba Street,31.4713182,34.4587609
+Khuza'a Street,31.2797968,34.3168036
+Salah Dain-Khan Street,31.3123157,34.3163946
